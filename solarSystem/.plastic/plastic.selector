@@ -1,0 +1,4 @@
+repository "solarSystem@honeynian@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
